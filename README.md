@@ -15,3 +15,5 @@
   
   Instagram: https://www.instagram.com/lucas.mota_10/
 
+  beecrowd: https://www.beecrowd.com.br/judge/pt/profile/765181
+

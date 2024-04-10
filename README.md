@@ -1,19 +1,29 @@
-### Lucas Mota - Student
+<h1 align="center">Hi 👋, I'm Lucas Mota</h1>
+<h3 align="center">Computer engineering student</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmota10&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmota10" /> </p>
 
- ● I'm currently following two academic paths simultaneously, studying Computer Science at the Federal University of Bahia and Computer Engineering at Senai Cimatec. My goal is to enter the job market in the area of computing and embedded electronics, with the aim of gaining professional experience and absorbing as much knowledge as possible.
+- 🔭 I’m currently working on [Chess_Java](https://github.com/LucasMota10/Chess_Java)
 
- ● In addition to my academic commitments, I'm part of the technical team at CAS IEEE Cimatec and have the incredible opportunity to teach the Algorithms project alongside some excellent friends. This project's mission is to introduce freshmen computer science students to C programming logic, a fundamental step in their academic journeys.
+- 🌱 I’m currently learning **CyberSecurity**
 
- ● I also have a keen interest in competitive programming, which led me to represent Senai Cimatec in the OBI 2023 and SBC 2023 competitions. I look forward to continuing to learn and grow in this exciting area of technology, while collaborating with other enthusiasts and professionals to develop innovative solutions.
+- 💬 Ask me about **C, C++**
 
-- 🔭 I’m currently working on a Game Project in C++ using SDL(Simple DirectMedia Layer)
-- 🌱 I’m currently learning C++ and Pyhon, i want to learn more about machine learning and IA
-- 👯 I’m looking to collaborate on Projects that can improve my curriculum and aggregate in my professional life
-- 📫 How to reach me:
-  
-  Linkedin: https://www.linkedin.com/in/lucas-mota-a1673727b/
-  
-  Instagram: https://www.instagram.com/lucas.mota_10/
+- 📫 How to reach me **lucasbulcaobmota@gmail.com**
 
-  beecrowd: https://www.beecrowd.com.br/judge/pt/profile/765181
+- 📄 Know about my experiences [https://docs.google.com/document/d/1XM74xkkHHm-VMsACizdJ-OhIfDiHOhx-MUVNHXiI2kU/edit?usp=sharing](https://docs.google.com/document/d/1XM74xkkHHm-VMsACizdJ-OhIfDiHOhx-MUVNHXiI2kU/edit?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lucas mota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas mota" height="30" width="40" /></a>
+<a href="https://instagram.com/lucas_mota10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas_mota10" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmota10&show_icons=true&locale=en&layout=compact" alt="lucasmota10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmota10&show_icons=true&locale=en" alt="lucasmota10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmota10&" alt="lucasmota10" /></p>
